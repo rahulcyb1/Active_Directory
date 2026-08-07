@@ -2,7 +2,7 @@
 
 # Active Directory Administration & Group Policy
 
-This section documents hands-on configuration of **Active Directory Domain Services (AD DS)** and **Group Policy Objects (GPOs)** in a Windows Server home lab. The objective was to understand how organizations manage users, enforce security policies, and control access to enterprise resources through centralized administration.
+This section documents hands-on configuration of **Active Directory Domain Services (AD DS)** and **Group Policy Objects (GPOs)** in a Windows Server home lab. The objective was to understand how organizations manage users, enforce security policies and control access to enterprise resources through centralized administration.
 
 This Active Directory lab serves as the foundation for Windows Security Event Log collection and authentication monitoring in my Splunk SOC lab.
 ---
